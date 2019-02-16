@@ -1,0 +1,38 @@
+/* CUSTOM */
+section {
+	border: 1px solid #95989A;
+	background-color: #384452;
+	/*margin-left: 33%;
+	margin-right: 33%;*/
+	margin-bottom: 1%;
+}
+
+form input {
+	margin-bottom: 3%;
+}
+
+section > h3{
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+ .inscription {
+	/*padding-top: 5%;*/
+	color: #FDEC00;
+}
+
+.inscription:hover{
+		color: #384452;
+}
+
+.submit {
+	height: 50%;
+	width: 15%;
+	background-color: #FDEC00;
+	border: 1px solid #95989A;
+}
+
+#connexion_failed{
+	color: white;
+	margin-top: 0px;
+}
